@@ -22,18 +22,19 @@ tibiamap: Marcações do mapa utilizadas para o personagem se movimentar dentro 
 Obs: O programa incorpora dois loops distintos: o loop principal é ativado quando o personagem está na área de caça; já o segundo loop é acionado quando o personagem necessita reabastecer seus suprimentos. Nesse cenário, o programa entra em um loop específico que utiliza a pasta "refill_map" para orientar os movimentos pelo minimap.
 
 | 🗺️ Funções                          | Status |
-|------------------------------------|--------|
-| Alerts                             | ✔️     |
-| Auto ring                          | ✔️     |
-| Auto walker                        | ✔️     |
-| Magic shooter                      | ✔️     |
-| Drop empty flasks                  | ✔️     |
-| Deposit non stacked items          | ✔️     |
-| Deposit stacked items              | ✔️     |
-| Auto eat                           | ✔️     |
-| Healing                            | ✔️     |
-| Auto target                        | ✔️     |
-| Auto refill                        | ✔️     |
-| Auto looter                        | ✔️     |
-| Sell empty flasks                  | ✔️     |
+|------------------------------------|-----|
+| Alerts                             | ✔️ |
+| Auto ring                          | ✔️ |
+| Auto walker                        | ✔️ |
+| Magic shooter                      | ✔️ |
+| Drop empty flasks                  | ✔️ |
+| Deposit non stacked items          | ✔️ |
+| Deposit stacked items              | ✔️ |
+| Auto eat                           | ✔️ |
+| Healing                            | ✔️ |
+| Auto target                        | ✔️ |
+| Auto refill                        | ✔️ |
+| Auto looter                        | ✔️ |
+| Sell empty flasks                  | ✔️ |
+| Interface interativa               | ❌ |
 
