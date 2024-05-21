@@ -23,17 +23,17 @@ Obs: O programa incorpora dois loops distintos: o loop principal é ativado quan
 
 | 🗺️ Funções                          | Status |
 |------------------------------------|--------|
-| Alertas                            | ✔️     |
+| Alerts                             | ✔️     |
 | Auto ring                          | ✔️     |
-| Cavebot                            | ✔️     |
-| Combinação de Ataques              | ✔️     |
-| Descarte de Frascos                | ✔️     |
-| Depósito de Itens Não Empilhados   | ✔️     |
-| Depósito de Itens Empilhados       | ✔️     |
-| Consumidor de Comida               | ✔️     |
-| Cura                               | ✔️     |
-| Seleção Inteligente de Alvos       | ✔️     |
-| Recarga                            | ✔️     |
-| Coleta Rápida                      | ✔️     |
-| Venda de Frascos                   | ✔️     |
+| Auto walker                        | ✔️     |
+| Magic shooter                      | ✔️     |
+| Drop empty flasks                  | ✔️     |
+| Deposit non stacked items          | ✔️     |
+| Deposit stacked items              | ✔️     |
+| Auto eat                           | ✔️     |
+| Healing                            | ✔️     |
+| Auto target                        | ✔️     |
+| Auto refill                        | ✔️     |
+| Auto looter                        | ✔️     |
+| Sell empty flasks                  | ✔️     |
 
